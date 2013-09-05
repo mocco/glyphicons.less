@@ -1,5 +1,5 @@
 #glyphicons.less
-A less file to ease the use of the GLYPHICONS. *The icons is not included, get them at [GLYPHICONS.com](http://glyphicons.com/)*
+A less file to ease the use of the GLYPHICONS. *The icons are not included, get them at [GLYPHICONS.com](http://glyphicons.com/)*
 
 ###Usage
 Add glyphicons.less to your project and add this to your less file
